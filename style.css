@@ -1,0 +1,19 @@
+body {
+    background-color: #c6c6c6;
+    color: #1d1d1d;
+    color: rgb(red green blue);
+    /* 
+        R - Red
+        G - Green
+        B - Blue    
+    */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 32px;
+}
